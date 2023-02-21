@@ -123,3 +123,11 @@
 ## _And last Maching learning , We will train our machine learning model to build a movie recommendation system for users, where given a user id and a movie, it tells us if it is recommended or not for said user and we will deploy it with a graphical interface using Gradio._
 
     - File : ML_Recomendation_System.ipynb
+ 
+ 
+ 
+# <p align=center> **Sintaxis a tener en cuenta al escribir una consulta:**<p>
+- ####_Everything must be lowercase_  
+- ####_The platforms it supports are: Amazon, Disney, Hulu and Netflix._
+- ####_Avoid using Spanish characters_
+- ####_In case an invalid platform is entered, an explanatory message will be printed on the screen_
