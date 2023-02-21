@@ -122,4 +122,4 @@
 
 ## _And last Maching learning , We will train our machine learning model to build a movie recommendation system for users, where given a user id and a movie, it tells us if it is recommended or not for said user and we will deploy it with a graphical interface using Gradio._
 
-    - File : Recommendation_System.ipynb 
+    - File : ML_Recomendation_System.ipynb
