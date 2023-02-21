@@ -1,0 +1,15 @@
+
+1) API  : 
+
+        - Log in in deta.space : https://deta.space
+
+        - Install My API in your deta.cloud : https://deta.space/discovery/@gvbrilohenry/deta
+
+        - After that you can run my program with this link : https://deta-1-a5422253.deta.app/docs#
+
+
+
+2) ML : 
+
+        - you can try my System Recomendation here : https://3887f48b20377313eb.gradio.live  this link expire 02/24/2023 - 9:00 AM but you
+          can generate a new link running the RecommendationSystem.ipynb notebook in the last youll se a public link and a local   
